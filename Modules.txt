@@ -1,0 +1,10 @@
+We are using the "Requests" Module to send sms to People.
+
+    command :- "pip install requests"
+
+    Link :- https://pypi.org/project/requests/
+
+    This helps us to make requests using the network like a browser.
+
+    This module allows us to download/ request html file, API's data like a actual web browser without using an actual window.
+
